@@ -1,0 +1,6 @@
+../Core/Src/motor.c:12:6:start_pwm	8	static
+../Core/Src/motor.c:19:6:stop_pwm	8	static
+../Core/Src/motor.c:26:6:set_pwm_duty_r	16	static
+../Core/Src/motor.c:31:6:set_pwm_duty_l	16	static
+../Core/Src/motor.c:36:6:forward	8	static
+../Core/Src/motor.c:44:6:backward	8	static

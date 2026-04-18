@@ -1,0 +1,7 @@
+../Core/Src/ui.c:11:6:set_led_r	2
+../Core/Src/ui.c:19:6:set_led_fr	2
+../Core/Src/ui.c:27:6:set_led_fl	2
+../Core/Src/ui.c:36:6:set_led_l	2
+../Core/Src/ui.c:45:6:get_push_0	1
+../Core/Src/ui.c:49:6:get_push_1	1
+../Core/Src/ui.c:60:5:__io_putchar	2

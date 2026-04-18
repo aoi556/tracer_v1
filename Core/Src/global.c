@@ -1,0 +1,8 @@
+/*
+ * global.c
+ *
+ *  Created on: Apr 17, 2026
+ *      Author: tomo1
+ */
+
+

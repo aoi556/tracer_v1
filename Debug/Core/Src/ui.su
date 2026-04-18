@@ -1,0 +1,7 @@
+../Core/Src/ui.c:11:6:set_led_r	16	static
+../Core/Src/ui.c:19:6:set_led_fr	16	static
+../Core/Src/ui.c:27:6:set_led_fl	16	static
+../Core/Src/ui.c:36:6:set_led_l	16	static
+../Core/Src/ui.c:45:6:get_push_0	8	static
+../Core/Src/ui.c:49:6:get_push_1	8	static
+../Core/Src/ui.c:60:5:__io_putchar	24	static

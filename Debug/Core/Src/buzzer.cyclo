@@ -1,0 +1,4 @@
+../Core/Src/buzzer.c:11:6:start_buzzer_pwm	1
+../Core/Src/buzzer.c:17:6:stop_buzzer_pwm	1
+../Core/Src/buzzer.c:23:6:set_buzzer_pwm_duty	1
+../Core/Src/buzzer.c:29:6:set_buzzer_pwm_freq	1
